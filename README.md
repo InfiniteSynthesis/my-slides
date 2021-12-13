@@ -4,6 +4,8 @@ Slides that I  have presented.
 
 ## 2021
 
+**Lightning Talk**. In Security, Privacy, and Trust Ph.D. Lightning Talk.
+
 **Front-Running Attacks in DeFi Network**. In DeFi reading group.
 
 **On Bitcoin Cash’s Target Recalculation Functions**. In ACM AFT '21.
