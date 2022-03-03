@@ -2,6 +2,10 @@
 
 Slides that I  have presented.
 
+## 2022
+
+**Yield Aggregators in DeFi**. In DeFi reading group.
+
 ## 2021
 
 **Lightning Talk**. In Security, Privacy, and Trust Ph.D. Lightning Talk.
