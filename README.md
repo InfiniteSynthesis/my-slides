@@ -4,6 +4,8 @@ Slides that I  have presented.
 
 ## 2022
 
+**Crypto Wash Trading**. In DeFi reading group.
+
 **Yield Aggregators in DeFi**. In DeFi reading group.
 
 ## 2021
